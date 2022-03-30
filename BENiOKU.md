@@ -7,6 +7,7 @@ Sayfa numarası: 446 'da
 ```
 REM  *****  BASIC  *****
 REM Bu ifade tek satırlık bir yorum ya da açıklama yapmamıza olanak tanır.
+rem bu ifade de teksatırlık bir yorum belirtir.
 
 
 Sub merhabaMakro
