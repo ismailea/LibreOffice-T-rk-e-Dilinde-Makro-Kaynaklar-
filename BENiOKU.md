@@ -22,3 +22,4 @@ merhabaMakro 'Bu bir yorum parantezidir. Program kesme işaretinden sonrakileri 
 
 End Sub
 ```
+Sayfa 452 'den devam et.
