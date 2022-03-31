@@ -54,7 +54,7 @@ hazir_Veriyi_Yaz      rem hazir_Veriyi_Yaz ile yazılan yerde bizim yapılmasın
 End Sub
 
 
-sub benim_Adimi_Gir  REM Biz, gerekenleri yaptıktan sonra aşağıdakileri program kendisi yazıyor.
+sub hazir_Veriyi_Yaz  REM Biz, gerekenleri yaptıktan sonra aşağıdakileri program kendisi yazıyor.
                      Rem Yani, kendimiz klavyede yazmadık.
 rem ----------------------------------------------------------------------
 rem define variables
