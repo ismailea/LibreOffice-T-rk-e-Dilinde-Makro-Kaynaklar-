@@ -60,7 +60,7 @@ rem -------------------------------------------------------------
 rem Hep hatırlayalım, kodlarımız her zaman main olarak yazılan yerin arasında çalışır
 Sub Main
 
-benim_Adimi_Gir      'adimiGir ile yazılan yerde bizim yapılmasını istediklerimizi tanımladık.
+benim_Adimi_Gir      'benim_Adimi_Gir ile yazılan yerde bizim yapılmasını istediklerimizi tanımladık.
 
 End Sub
 ```
