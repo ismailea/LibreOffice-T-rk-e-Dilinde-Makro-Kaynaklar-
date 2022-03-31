@@ -31,7 +31,7 @@ Sayfa 452 'den devam et.            ////////////////////////////////////////////
 REM  *****  BASIC  *****
 
 
-sub adimi_Gir   'LibreOffice Basic makro dilinde tanımlamaları Türkçe alfabesinde yazarsanız
+sub benim_Adimi_Gir   'LibreOffice Basic makro dilinde tanımlamaları Türkçe alfabesinde yazarsanız
                 'derleyici size hata mesajı gönderir. Bunun yerine Türkçe kelimeleri
                 ' İngiliz alfabesinde yazmanız gerekiyor.
                  ' Bu uygulamayı tasarladıkları için ve şimdilik bunu nasıl değştireceğimizi
@@ -60,7 +60,7 @@ rem -------------------------------------------------------------
 rem Hep hatırlayalım, kodlarımız her zaman main olarak yazılan yerin arasında çalışır
 Sub Main
 
-adimi_Gir      'adimiGir ile yazılan yerde bizim yapılmasını istediklerimizi tanımladık.
+benim_Adimi_Gir      'adimiGir ile yazılan yerde bizim yapılmasını istediklerimizi tanımladık.
 
 End Sub
 ```
