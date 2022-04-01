@@ -228,5 +228,5 @@ dispatcher.executeDispatch(document, ".uno:InsertText", "", 0, args33())
 end sub
 ```
  ////////////////////////////////////////////////////////////////////////////////////////////////////////
-                                              VERİLERİ OTOMATİK OLARAK BİR TABLOYA KATMAK
+                                       PROGRAM_3:       VERİLERİ OTOMATİK OLARAK BİR TABLOYA KATMAK
  Sayfa 455 'ten devam et.            ////////////////////////////////////////////////////////////////////////////////////// Tarih: 
