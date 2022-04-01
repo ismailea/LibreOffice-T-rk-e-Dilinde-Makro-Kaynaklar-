@@ -4,7 +4,7 @@ LibreBasic İle LibreOffice Üzerinde Yapılacak Makro Kaynakları için Bir Reh
 Kaynak: [Libre Office 7.2 Başlangıç Kılavuzu](https://documentation.libreoffice.org/assets/Uploads/Documentation/tr/GS7.2/LibreOffice-Balangc-Klavuzu.pdf)
 
  //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-                                                             TANITIM
+                                         PROGRAM_1:                    TANITIM
  Sayfa numarası: 446 'da            ///////////////////////////////////////////////////////////////////////////////////        30/03/2022
 
 ```
@@ -26,7 +26,7 @@ merhabaMakro 'Bu bir yorum parantezidir. Program kesme işaretinden sonrakileri 
 End Sub
 ```
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-                                                            MAKRO KAYDET
+                                        PROGRAM_2:                    MAKRO KAYDET
  Sayfa 452 'den devam et.            //////////////////////////////////////////////////////////////////////////////////////        31/03/2022
 
 ```
